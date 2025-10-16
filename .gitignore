@@ -1,0 +1,10 @@
+output/
+_spark_metadata/
+*.parquet
+*.crc
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
+*.out
