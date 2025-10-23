@@ -64,18 +64,6 @@ avg_hum_global (double)
 ok_total (long)
 
 ventanas (long)
-## Evidencias SparkUI
 
-**Jobs**
-![SparkUI – Jobs](images/sparkui_jobs.png)
-
-**SQL / DataFrame**
-![SparkUI – SQL / DataFrame](images/sparkui_sql.png)
-
-**Structured Streaming**
-![SparkUI – Structured Streaming](images/sparkui_streaming.png)
-
-**Executors**
-![SparkUI – Executors](images/sparkui_executors.png)
 
 
