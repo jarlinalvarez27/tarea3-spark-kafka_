@@ -65,9 +65,10 @@ ventanas (long)
 ## Enlaces
  **Repositorio:**  
 [tarea3-spark-kafka_](https://github.com/jarlinalvarez27/tarea3-spark-kafka_)
-
  **Video de sustentación (SharePoint):**  
 [Ver video aquí](https://unadvirtualedu-my.sharepoint.com/:v:/g/personal/jealvarezju_unadvirtual_edu_co/EWM1AZK993tJjnY2r6Mb6TgBDiRzp8VjX52Vjn811qTBKw)
+## Enlaces  
+*Presentación online (Canva):** [Ver presentación – Arquitectura y resultados](https://www.canva.com/design/DAG2xI8z3b4/DYmFVzW55eblkHwLmvecVA/view?utm_content=DAG2xI8z3b4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h16efc5b4e7)
 
 
 
